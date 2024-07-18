@@ -10,7 +10,7 @@ Add package to your composer with git reference
 ```
 "repositories": [
         {
-            "url": "https://github.com/handleglobal/laravel-nova-nested-form.git",
+            "url": "https://github.com/brunolanevik/laravel-nova-nested-form.git",
             "type": "git"
         }
 ]
